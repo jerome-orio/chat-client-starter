@@ -1,6 +1,6 @@
-# Real-Time Chat Application Client - Starter Project
+# Real-Time Chat Room Application Client - Starter Project
 
-This is the client-side application for a real-time chat system built with Next.js and Socket.IO.
+This is the client-side application for a real-time chat room system built with Next.js and Socket.IO.
 
 ## Features
 
